@@ -1,0 +1,7 @@
+
+langdetect==1.0.9
+mysql-connector==2.2.9
+camel-kenlm==2021.12.27
+camel-tools==1.4.1
+catalogue==2.0.8
+streamlit==1.20.0
